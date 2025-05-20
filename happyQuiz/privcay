@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kebijakan Privasi - Aplikasi Kuis Digitalent</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #0050B3;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 1rem;
+    }
+    table, th, td {
+      border: 1px solid #aaa;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+    }
+    .contact {
+      margin-top: 2rem;
+      background-color: #fff;
+      padding: 1rem;
+      border: 1px solid #ccc;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 4px;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Kebijakan Privasi - Aplikasi Kuis Digitalent</h1>
+  <p><strong>Tanggal Berlaku:</strong> [Isi tanggal rilis di sini]</p>
+  <p><strong>Nama Paket Aplikasi:</strong> <code>com.talentiva.sisko</code></p>
+
+  <h2>1. Pendahuluan</h2>
+  <p>Aplikasi <strong>Kuis Digitalent</strong> ("kami") berkomitmen untuk menjaga dan melindungi privasi pengguna. Dokumen ini menjelaskan bagaimana kami mengelola data dan privasi Anda saat menggunakan aplikasi kami.</p>
+
+  <h2>2. Nama Pengguna yang Dihasilkan Otomatis</h2>
+  <p>Untuk mempermudah penggunaan, aplikasi secara otomatis membuat nama pengguna acak ketika Anda mulai menggunakan aplikasi. Nama ini hanya digunakan di dalam perangkat untuk menyimpan progres kuis, dan <strong>tidak terhubung</strong> dengan identitas pribadi Anda.</p>
+
+  <h2>3. Konten Kuis dan Interaksi Pengguna</h2>
+  <ul>
+    <li>Aplikasi menampilkan pertanyaan kuis secara acak dari berbagai jenjang pendidikan (SD, SMP, SMA, hingga Kuliah).</li>
+    <li>Pertanyaan dikategorikan berdasarkan mata pelajaran/mata kuliah dan sub-materi.</li>
+    <li>Pengguna dapat memilih untuk menjawab atau melewati pertanyaan.</li>
+    <li>Tidak diperlukan akun atau kata sandi untuk menggunakan aplikasi ini.</li>
+  </ul>
+
+  <h2>4. Pengumpulan dan Penyimpanan Data</h2>
+  <ul>
+    <li><strong>Kami tidak mengumpulkan atau menyimpan data pribadi apa pun.</strong></li>
+    <li>Hanya progres kuis yang disimpan secara lokal di perangkat Anda.</li>
+    <li>Tidak ada informasi pribadi yang dikirimkan atau disimpan di server mana pun.</li>
+  </ul>
+
+  <h2>5. Iklan dan Persetujuan Pengguna</h2>
+  <p>Aplikasi menggunakan <strong>iklan hadiah (Rewarded Ads) dari Google AdMob</strong>.</p>
+  <ul>
+    <li>Iklan hanya akan ditampilkan <strong>setelah Anda menyetujui</strong> dengan menekan tombol "Penjelasan".</li>
+    <li>Tidak ada iklan yang muncul tanpa persetujuan terlebih dahulu.</li>
+    <li>Google AdMob dapat mengumpulkan data sesuai dengan <a href="https://policies.google.com/privacy" target="_blank">Kebijakan Privasi Google</a>.</li>
+  </ul>
+
+  <h2>6. Privasi Anak-Anak</h2>
+  <p>Aplikasi ini dapat digunakan oleh semua usia dan berisi konten kuis yang sesuai untuk anak-anak di bawah 13 tahun. Kami tidak mengumpulkan data anak secara sengaja dan mengikuti <a href="https://support.google.com/googleplay/android-developer/answer/9893335" target="_blank">Kebijakan Google Play untuk Keluarga</a>.</p>
+
+  <h2>7. Keamanan</h2>
+  <p>Walaupun tidak ada data pribadi yang dikumpulkan, kami memastikan bahwa semua data (seperti progres kuis) dikelola secara aman dan hanya tersimpan di perangkat Anda.</p>
+
+  <h2>8. Perubahan Kebijakan Privasi</h2>
+  <p>Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Setiap perubahan akan diumumkan di halaman ini. Kami menyarankan Anda untuk memeriksa halaman ini secara berkala.</p>
+
+  <h2>9. Kontak</h2>
+  <div class="contact">
+    <p><strong>Email:</strong> <a href="mailto:talentiva.helpdesk@gmail.com">talentiva.helpdesk@gmail.com</a></p>
+    <p><strong>Website:</strong> <a href="https://yourusername.github.io/digitalent-landing" target="_blank">https://yourusername.github.io/digitalent-landing</a></p>
+  </div>
+
+  <h2>📎 Ringkasan</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Jenis Data</th>
+        <th>Dikumpulkan</th>
+        <th>Disimpan</th>
+        <th>Dibagikan</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Informasi Pribadi</td>
+        <td>❌ Tidak</td>
+        <td>❌ Tidak</td>
+        <td>❌ Tidak</td>
+      </tr>
+      <tr>
+        <td>Progres Kuis</td>
+        <td>✅ Ya</td>
+        <td>✅ Lokal di Perangkat</td>
+        <td>❌ Tidak</td>
+      </tr>
+      <tr>
+        <td>Data Iklan (oleh AdMob)</td>
+        <td>✅ Ya, oleh Google</td>
+        <td>❌ Tidak</td>
+        <td>✅ Ya, oleh Google</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
